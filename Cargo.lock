@@ -3291,9 +3291,9 @@ dependencies = [
 
 [[package]]
 name = "znap"
-version = "0.1.26"
+version = "0.1.28"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "5c8fd456f656714b844252a3732e1ed62848a0de18ed469435041f6ad3fbdc84"
+checksum = "8e80a31431c4904a17d704874d9321d144f9194a17dec27fb59c40a34da9a1c0"
 dependencies = [
  "axum",
  "base64 0.22.1",
@@ -3308,9 +3308,9 @@ dependencies = [
 
 [[package]]
 name = "znap-macros"
-version = "0.1.26"
+version = "0.1.28"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "769558b2fc64d1e224d1d64242bc8e62e3ed6228be28f9d587fc00113177ab65"
+checksum = "c25d9df1f21d63f4546812f114a772e2e627743d54e8f7d356a2e6f2d498fbd7"
 dependencies = [
  "proc-macro2",
  "quote",
@@ -3320,9 +3320,9 @@ dependencies = [
 
 [[package]]
 name = "znap-syn"
-version = "0.1.26"
+version = "0.1.28"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "b2905fa1cdb751be777bc55eced287cb7f3b0176d1ca82852c6db68c004db202"
+checksum = "4f7bb2b6dfa3f81b56555159e5da2369c7fcb938e7bdde71341aefa28c041a48"
 dependencies = [
  "anyhow",
  "colored",
