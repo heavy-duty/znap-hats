@@ -1,3 +1,4 @@
 /target
 .znap
 node_modules
+.nx
