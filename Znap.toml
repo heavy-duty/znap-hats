@@ -1,0 +1,2 @@
+collections = ["sales"]
+identity = "~/.config/solana/id.json"

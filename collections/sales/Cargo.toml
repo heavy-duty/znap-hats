@@ -1,0 +1,13 @@
+[package]
+name = "sales"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+axum = "0.7.5"
+reqwest = { version = "0.12.5", features = ["json"] }
+serde = "1.0.203"
+solana-sdk = "2.0.1"
+spl-associated-token-account = "4.0.0"
+spl-token = "6.0.0"
+znap = "0.1.26"
